@@ -1,5 +1,6 @@
 namespace SimplePrototypeCSharp
 {
+    // ConcretePrototype1
     public class Student : Person
     {
         public Student(string name, Teacher teacher) : base(name)
